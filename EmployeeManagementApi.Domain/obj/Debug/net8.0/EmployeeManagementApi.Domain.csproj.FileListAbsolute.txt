@@ -1,0 +1,11 @@
+D:\EmployeeManagementApi\EmployeeManagementApi.Domain\bin\Debug\net8.0\EmployeeManagementApi.Domain.deps.json
+D:\EmployeeManagementApi\EmployeeManagementApi.Domain\bin\Debug\net8.0\EmployeeManagementApi.Domain.dll
+D:\EmployeeManagementApi\EmployeeManagementApi.Domain\bin\Debug\net8.0\EmployeeManagementApi.Domain.pdb
+D:\EmployeeManagementApi\EmployeeManagementApi.Domain\obj\Debug\net8.0\EmployeeManagementApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagementApi\EmployeeManagementApi.Domain\obj\Debug\net8.0\EmployeeManagementApi.Domain.AssemblyInfoInputs.cache
+D:\EmployeeManagementApi\EmployeeManagementApi.Domain\obj\Debug\net8.0\EmployeeManagementApi.Domain.AssemblyInfo.cs
+D:\EmployeeManagementApi\EmployeeManagementApi.Domain\obj\Debug\net8.0\EmployeeManagementApi.Domain.csproj.CoreCompileInputs.cache
+D:\EmployeeManagementApi\EmployeeManagementApi.Domain\obj\Debug\net8.0\EmployeeManagementApi.Domain.dll
+D:\EmployeeManagementApi\EmployeeManagementApi.Domain\obj\Debug\net8.0\refint\EmployeeManagementApi.Domain.dll
+D:\EmployeeManagementApi\EmployeeManagementApi.Domain\obj\Debug\net8.0\EmployeeManagementApi.Domain.pdb
+D:\EmployeeManagementApi\EmployeeManagementApi.Domain\obj\Debug\net8.0\ref\EmployeeManagementApi.Domain.dll

@@ -1,0 +1,17 @@
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\bin\Debug\net8.0\EmployeeManagementApi.Infrastructure.deps.json
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\bin\Debug\net8.0\EmployeeManagementApi.Infrastructure.runtimeconfig.json
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\bin\Debug\net8.0\EmployeeManagementApi.Infrastructure.dll
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\bin\Debug\net8.0\EmployeeManagementApi.Infrastructure.pdb
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\bin\Debug\net8.0\EmployeeManagementApi.Domain.dll
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\bin\Debug\net8.0\EmployeeManagementApi.Domain.pdb
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\obj\Debug\net8.0\EmployeeManagementApi.Infrastructure.csproj.AssemblyReference.cache
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\obj\Debug\net8.0\EmployeeManagementApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\obj\Debug\net8.0\EmployeeManagementApi.Infrastructure.AssemblyInfoInputs.cache
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\obj\Debug\net8.0\EmployeeManagementApi.Infrastructure.AssemblyInfo.cs
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\obj\Debug\net8.0\EmployeeManagementApi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\obj\Debug\net8.0\Employee.AF2A1402.Up2Date
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\obj\Debug\net8.0\EmployeeManagementApi.Infrastructure.dll
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\obj\Debug\net8.0\refint\EmployeeManagementApi.Infrastructure.dll
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\obj\Debug\net8.0\EmployeeManagementApi.Infrastructure.pdb
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\obj\Debug\net8.0\EmployeeManagementApi.Infrastructure.genruntimeconfig.cache
+D:\EmployeeManagementApi\EmployeeManagementApi.Infrastructure\obj\Debug\net8.0\ref\EmployeeManagementApi.Infrastructure.dll

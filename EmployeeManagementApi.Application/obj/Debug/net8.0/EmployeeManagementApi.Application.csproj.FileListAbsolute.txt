@@ -1,0 +1,15 @@
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\bin\Debug\net8.0\EmployeeManagementApi.Application.deps.json
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\bin\Debug\net8.0\EmployeeManagementApi.Application.dll
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\bin\Debug\net8.0\EmployeeManagementApi.Application.pdb
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\bin\Debug\net8.0\EmployeeManagementApi.Domain.dll
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\bin\Debug\net8.0\EmployeeManagementApi.Domain.pdb
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\obj\Debug\net8.0\EmployeeManagementApi.Application.csproj.AssemblyReference.cache
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\obj\Debug\net8.0\EmployeeManagementApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\obj\Debug\net8.0\EmployeeManagementApi.Application.AssemblyInfoInputs.cache
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\obj\Debug\net8.0\EmployeeManagementApi.Application.AssemblyInfo.cs
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\obj\Debug\net8.0\EmployeeManagementApi.Application.csproj.CoreCompileInputs.cache
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\obj\Debug\net8.0\Employee.14E42D1C.Up2Date
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\obj\Debug\net8.0\EmployeeManagementApi.Application.dll
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\obj\Debug\net8.0\refint\EmployeeManagementApi.Application.dll
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\obj\Debug\net8.0\EmployeeManagementApi.Application.pdb
+D:\EmployeeManagementApi\EmployeeManagementApi.Application\obj\Debug\net8.0\ref\EmployeeManagementApi.Application.dll
